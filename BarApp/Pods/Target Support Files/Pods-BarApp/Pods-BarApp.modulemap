@@ -1,0 +1,6 @@
+framework module Pods_BarApp {
+  umbrella header "Pods-BarApp-umbrella.h"
+
+  export *
+  module * { export * }
+}
